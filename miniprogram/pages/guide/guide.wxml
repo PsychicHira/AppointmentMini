@@ -1,0 +1,7 @@
+<!--pages/guide/guide.wxml-->
+
+<image src="../../images/logo.png" class="img"></image>
+<div class="text">这是用来和白白预约时间的微信小程序</div>
+
+
+<!-- <text>这是用来和白白预约时间的微信小程序</text> -->

@@ -1,0 +1,5 @@
+/* miniprogram/pages/home.wxss */
+.van-tabs__line{
+  background-color: #FFCC01 !important;
+  height: 15rpx !important;
+}

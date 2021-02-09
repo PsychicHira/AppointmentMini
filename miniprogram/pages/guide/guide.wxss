@@ -1,0 +1,16 @@
+/* pages/guide/guide.wxss */
+page{
+  background-color: #FFCC01;
+}
+.img {
+  width: 95rpx;
+  height: 104rpx;
+  margin: 0 auto;
+  margin-top:600rpx;
+}
+.text{
+  text-align: center;
+  font-size:30rpx;
+  font-weight: bold;
+  margin-top: 50rpx;
+}
